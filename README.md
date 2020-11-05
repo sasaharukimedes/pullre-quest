@@ -1,4 +1,4 @@
 # pullreqtest
 hogefuga
 
-foo
+foo bar
