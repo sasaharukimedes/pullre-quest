@@ -13,7 +13,7 @@ title: プルリクエスト
 それをクリックして、ソースコードを編集したら、ページ下の方にある緑色の Commit changes を押すのじゃ。
 ではやってみよ。
 
-[https://github.com/kuboon/pullre-quest/blob/main/pages/castle/quest.md]
+[quest.md](https://github.com/kuboon/pullre-quest/blob/main/pages/castle/quest.md target="_blank")
 
 
 おうさま「上手く出来たかね？なに？変更が反映されない？
