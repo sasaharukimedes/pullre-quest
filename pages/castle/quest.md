@@ -4,6 +4,9 @@ title: プルリクエスト
 おうさま「準備は整ったようじゃな。では、この世界を改変する術を教えよう。
 
 おうさま「まずこのリンクを開いてみよ。ここに、このページのソースコードが見えるはずじゃ。
+
+[quest.md](https://github.com/kuboon/pullre-quest/blob/main/pages/castle/quest.md){target="_blank"}
+
 右上にえんぴつのアイコンが見えるじゃろう？
 
 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
@@ -12,9 +15,6 @@ title: プルリクエスト
 
 それをクリックして、ソースコードを編集したら、ページ下の方にある緑色の Commit changes を押すのじゃ。
 ではやってみよ。
-
-[quest.md](https://github.com/kuboon/pullre-quest/blob/main/pages/castle/quest.md){target="_blank"}
-
 
 おうさま「上手く出来たかね？なに？変更が反映されない？
 実はな。。。おぬしの変更がこの世界に反映されるには、「マージ」が必要なのじゃ。
